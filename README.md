@@ -11,4 +11,11 @@
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Gowiem&count_private=true&theme=cobalt&show_icons=true)
 
 <!--START_SECTION:waka-->
+```text
+Terraform   10 hrs 52 mins  ███████████▒░░░░░░░░░░░░░   45.19 % 
+Bash        4 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+YAML        2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Other       2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Makefile    1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+```
 <!--END_SECTION:waka-->
