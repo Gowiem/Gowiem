@@ -12,6 +12,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Terraform   1 hr 8 mins     ████████████▓░░░░░░░░░░░░   51.21 % 
+Smarty      30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 % 
+JSON        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+YAML        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Other       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 ```
 <!--END_SECTION:waka-->
