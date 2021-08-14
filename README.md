@@ -12,8 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML        1 hr 16 mins    ███████████████▓░░░░░░░░░   62.20 % 
-Terraform   42 mins         ████████▓░░░░░░░░░░░░░░░░   34.02 % 
-Makefile    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+YAML        31 mins         ████████████████████▓░░░░   82.71 % 
+Terraform   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
 ```
 <!--END_SECTION:waka-->
