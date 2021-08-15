@@ -12,7 +12,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML        31 mins         ████████████████████▓░░░░   82.71 % 
-Terraform   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
