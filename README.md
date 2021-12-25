@@ -12,9 +12,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other       33 mins         ██████████░░░░░░░░░░░░░░░   40.63 % 
-Terraform   21 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
-Text        13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Bash        12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
