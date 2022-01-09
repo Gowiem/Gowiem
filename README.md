@@ -12,6 +12,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON        12 mins         ████████████▓░░░░░░░░░░░░   50.55 % 
+Other       10 mins         ███████████░░░░░░░░░░░░░░   43.59 % 
+Terraform   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 ```
 <!--END_SECTION:waka-->
