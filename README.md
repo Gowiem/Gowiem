@@ -21,6 +21,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Total: 10 hrs 34 mins
+
 Terraform   6 hrs 40 mins   ██████████████▓░░░░░░░░░░   58.68 % 
 YAML        2 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
 Other       48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
