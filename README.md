@@ -21,13 +21,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 10 hrs 34 mins
+Total: 9 hrs 31 mins
 
-Terraform   6 hrs 40 mins   ██████████████▓░░░░░░░░░░   58.68 % 
-YAML        2 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-Other       48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Text        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Markdown    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Terraform   5 hrs 52 mins   ██████████████▒░░░░░░░░░░   56.72 % 
+YAML        2 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+Other       48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Markdown    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Text        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 <!--END_SECTION:waka-->
 
