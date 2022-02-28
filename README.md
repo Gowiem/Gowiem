@@ -20,13 +20,13 @@
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Gowiem&count_private=true&theme=cobalt&show_icons=true)
 
 <!--START_SECTION:waka-->
+
 ```text
-Terraform    6 hrs 27 mins   ██████████████████░░░░░░░   72.22 % 
-YAML         1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Terraform    5 hrs 45 mins   █████████████░░░░░░░░░░░░   51.67 %
+YAML         3 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   30.65 %
+Other        1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/gowiem/find-me-on-cm-b.svg)](https://www.codementor.io/@gowiem?refer=badge)
