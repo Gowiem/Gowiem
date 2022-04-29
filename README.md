@@ -22,8 +22,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    0 secs          ████████████▒░░░░░░░░░░░░   49.96 %
-Other        0 secs          ███████████▒░░░░░░░░░░░░░   45.16 %
+Terraform    0 secs          █████████████░░░░░░░░░░░░   52.52 %
+Other        0 secs          ████████████░░░░░░░░░░░░░   47.48 %
 ```
 
 <!--END_SECTION:waka-->
