@@ -21,7 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   0 secs          █████████████████████████   100.00 %
+YAML        1 min           ████████████████████████▒   96.87 %
+Terraform   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Makefile    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
