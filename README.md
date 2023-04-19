@@ -21,8 +21,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML        7 mins          █████████████████████▒░░░   85.69 %
-Terraform   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+YAML        7 mins          █████████████████████▒░░░   85.41 %
+Terraform   1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
 ```
 
 <!--END_SECTION:waka-->
