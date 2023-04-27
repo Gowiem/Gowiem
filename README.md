@@ -21,8 +21,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown    17 mins         █████████████░░░░░░░░░░░░   52.27 %
-Terraform   16 mins         ████████████░░░░░░░░░░░░░   47.73 %
+Markdown   0 secs          ███████████████████▓░░░░░   78.44 %
+YAML       0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
 ```
 
 <!--END_SECTION:waka-->
