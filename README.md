@@ -4,10 +4,10 @@
 
 
 
-- ⛅️ I'm the owner and operator of [Masterpoint](https://masterpoint.io) - A consulting agency focused on delivering killer Cloud Platforms built on Terraform, AWS, and Containerized environments
-- 💬 Ask me about AWS, my open source [Terraform work](https://github.com/masterpointio?q=terraform&type=&language=hcl), or anything in the Cloud Native space
+- ⛅️ I'm the founder and CEO/CTO of [Masterpoint](https://masterpoint.io) - We're an AWS Platform Engineering agency that help our clients focus on their product instead of their cloud 🦾
+- 💬 Ask me about AWS, our open source [Terraform work](https://github.com/masterpointio?q=terraform&type=&language=hcl), or anything in the Cloud Native space
 - 🔨 Want to work together on an upcoming project? Reach out via [masterpoint.io](https://masterpoint.io)
-- 🧗‍♂️ Fun fact: [I've rock climbed on 5 continents!](https://www.rockandice.com/videos/weekend-whippers/weekend-whipper-gunning-for-it-on-south-six-shooter/)
+- 🧗‍♂️ Fun fact: [I've rock climbed on 5 continents!](https://www.youtube.com/watch?v=bT3eOACgJK8)
 
 <br>
 
@@ -17,13 +17,3 @@
 <br>
 
 ![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Gowiem&count_private=true&theme=cobalt&show_icons=true)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/gowiem/find-me-on-cm-b.svg)](https://www.codementor.io/@gowiem?refer=badge)
