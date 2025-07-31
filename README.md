@@ -9,7 +9,7 @@
   - [On LinkedIn](https://www.linkedin.com/in/gowiem/)
   - [On the Masterpoint Blog](https://masterpoint.io/updates/)
   - [On the Masterpoint YouTube Channel](https://www.youtube.com/@MasterpointConsulting/)
-  - [A short, IaC focused newsletter I push out twice a month](https://masterpoint.io/signup/landing/)
+  - [On "IaC Insights", a short focused newsletter we push out twice a month](https://masterpoint.io/signup/landing/)
 - ⚾ Check out what Masterpoint has been up to on our [GitHub Org page](https://github.com/masterpointio)
 - 💬 Got an upcoming IaC project that you're looking to knock out of the park? Reach out via [matt@masterpoint.io](mailto:matt@masterpoint.io)
 - 🧗‍♂️ Fun fact: [I've rock climbed on 5 continents!](https://www.youtube.com/watch?v=bT3eOACgJK8)
