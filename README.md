@@ -4,10 +4,11 @@
 
 
 
-- ⛅️ I'm the CEO/CTO of [Masterpoint](https://masterpoint.io) - We're an Infrastructure as Code (IaC) consulting agency -- we get passionate about helping our clients automate, migrate, and innovate their cloud infrastructure 🦾
+- ⛅️ I'm the CEO/CTO of [Masterpoint](https://masterpoint.io) - We turn messy infrastructure as code into an efficient platform. We untangle your IaC, embed proven workflows, and upskill your team — all so you can own and scale your infrastructure with confidence.
 - 🖊️ Check out some of the words I put out on the internet:
   - [On LinkedIn](https://www.linkedin.com/in/gowiem/)
   - [On the Masterpoint Blog](https://masterpoint.io/updates/)
+  - [On the Masterpoint YouTueb Channel](https://www.youtube.com/@MasterpointConsulting/)
   - [A short, IaC focused newsletter I push out twice a month](https://masterpoint.io/signup/landing/)
 - ⚾ Check out what Masterpoint has been up to on our [GitHub Org page](https://github.com/masterpointio)
 - 💬 Got an upcoming IaC project that you're looking to knock out of the park? Reach out via [matt@masterpoint.io](mailto:matt@masterpoint.io)
