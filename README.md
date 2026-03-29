@@ -16,7 +16,7 @@
 
 <br>
 
-![Matt's github stats](https://github-readme-stats.vercel.app/api?username=Gowiem&count_private=true&theme=cobalt&show_icons=true)
+![Matt's github stats](https://github-readme-stats.shion.dev/api?username=Gowiem&count_private=true&theme=cobalt&show_icons=true)
 
 <br>
 
